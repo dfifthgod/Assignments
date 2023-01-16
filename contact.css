@@ -23,7 +23,7 @@
     margin-bottom: 20px;
 }
 span{
-    color: #f9004d;
+    color: #00fa32;
 }
 .contact-form {
     color: #c69cd8bf;
@@ -53,7 +53,7 @@ form textarea{
 }
 .contact-form form .btn{
     display: inline-block;
-    background-color: #f9004d;
+    background-color: #00fa32;
     font-size: 1.1rem;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -65,7 +65,7 @@ form textarea{
     cursor: pointer;
 }
 .contact-form form .btn:hover{
-    border: 2px solid #f9004d;
+    border: 2px solid #00fa32;
     background: transparent;
     transform: scale(1.1);
 }
