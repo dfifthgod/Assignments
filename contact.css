@@ -8,6 +8,7 @@
     padding: 40px 15%;
 }
 .contact{
+    left: -10px;
     background: #101010;
     height: 100%;
     width: 100%;
@@ -21,6 +22,7 @@
     font-size: 80px;
     color: #fff;
     margin-bottom: 20px;
+    margin-top: 80px;
 }
 span{
     color: #00fa32;
